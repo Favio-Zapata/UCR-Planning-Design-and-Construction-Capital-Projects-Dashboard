@@ -11,6 +11,6 @@
 
 [UCR PDC Website Dashboard Link](https://pdc.ucr.edu/project-dashboard) 
 
-1[Dashboard](PDC_Capital_Projects_Dashboard.png)
+![Dashboard](PDC_Capital_Projects_Dashboard.png)
 
 <br>
