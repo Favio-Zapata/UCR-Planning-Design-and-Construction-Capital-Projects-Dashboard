@@ -1,6 +1,6 @@
 # UCR-Planning-Design-and-Construction-Capital-Projects-Dashboard
 
-<p align = "center"> ![Front Office](PDC_Front_Office.png) </p>
+![Front Office](PDC_Front_Office.png)
 
 <br>
 
