@@ -27,7 +27,7 @@ The UCR Campus Architect/Associate Vice Chancellor contracted our department to 
 * Configured workflow automations and forms to reduce input redundancy, utilizing data-mesh lookups to enforce consistency and standardization across project inputs. 
 * Built a Tableau Public dashboard featuring project status distribution, visual timelines, and geospatial mapping, enabling stakeholders to dynamically explore project metrics and timelines.
 
-Business Impact
+### Business Impact
 
 * Elevated reporting reliability and stakeholder transparency through an interactive BI PPM for streamlined project tracking and visual interactivity.
 * Improved portfolio management and executive visibility for campus leadership by centralizing historical and accountability data structures between project managers and university clients through a standardized dashboard reporting.
