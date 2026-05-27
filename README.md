@@ -1,7 +1,17 @@
 # UCR-Planning-Design-and-Construction-Capital-Projects-Dashboard
 
 <p align="center">
-<img src="PDC_Front_Office.png" width="50%" align="middle">
+<img src="PDC_Front_Office.png" width="80%" align="middle">
+</p>
+
+## <p align = "center"> Dashboard </p>
+
+<p align = "center"> 
+  [Capital Projects Dashboard (PDC Website)](https://pdc.ucr.edu/project-dashboard)
+</p>
+
+<p align = "center"> 
+  [Capital Projects Dashboard (Tableau Public)](https://public.tableau.com/views/PDCCapitalProjectsDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 </p>
 
 ## <p align = "center"> Project Background </p>
