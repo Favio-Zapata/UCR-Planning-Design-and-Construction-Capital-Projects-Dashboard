@@ -1,6 +1,6 @@
 # UCR-Planning-Design-and-Construction-Capital-Projects-Dashboard
 
-![Front Office](PDC_Front_Office.png)
+<img src="PDC_Front_Office.png" width="50%">
 
 ## <p align = "center"> Project Background </p>
 
