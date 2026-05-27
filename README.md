@@ -4,7 +4,7 @@
 
 ## <p align = "center"> Project Background </p>
 
-![Construction](Business_Building_Construction.png)
+<img src="Business_Building_Construction.png" width="50%">
 
 The UCR Campus Architect/Associate Vice Chancellor contracted our department to improve the UCR Planning, Design, and Construction (PD&C) department's multi-million-dollar capital project schedule. As the department’s Business Systems Analyst, I spearheaded the development of a new capital project schedule to mitigate and replace the deficiencies of the legacy Excel schedule.
 
