@@ -14,6 +14,10 @@
   [Capital Projects Dashboard (Tableau Public)](https://public.tableau.com/views/PDCCapitalProjectsDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 </p>
 
+![Dashboard](PDC_Capital_Projects_Dashboard.png)
+
+<br>
+
 ## <p align = "center"> Project Background </p>
 
 <p align="center">
