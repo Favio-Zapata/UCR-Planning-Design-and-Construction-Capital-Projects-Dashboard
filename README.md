@@ -1,4 +1,4 @@
-# UCR-Planning-Design-and-Construction-Capital-Projects-Dashboard
+# UCR Planning Design and Construction Capital Projects PPM
 
 <p align="center">
 <img src="PDC_Front_Office.png" width="80%" align="middle">
