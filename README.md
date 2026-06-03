@@ -7,10 +7,13 @@
 ## <p align = "center"> Dashboard </p>
 
 <p align="center">
-  <a href="https://pdc.ucr.edu/project-dashboard">Capital Projects Dashboard (PDC Website)</a>
-</p>
-<p align="center">
-  <a href="https://public.tableau.com/views/PDCCapitalProjectsDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Capital Projects Dashboard (Tableau Public)</a>
+  <a href="https://pdc.ucr.edu/project-dashboard" target="_blank">
+    <img src="https://shields.io" alt="PDC Website Dashboard">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://public.tableau.com/views/PDCCapitalProjectsDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+    <img src="https://shields.io" alt="Tableau Public Dashboard">
+  </a>
 </p>
 
 ![Dashboard](PDC_Capital_Projects_Dashboard.png)
