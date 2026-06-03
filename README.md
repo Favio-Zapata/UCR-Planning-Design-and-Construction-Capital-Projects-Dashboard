@@ -53,15 +53,9 @@ The UCR Campus Architect/Associate Vice Chancellor contracted our department to 
 
 ## <p align = "center"> Dashboard </p>
 
-<p align="center">
-  <a href="https://ucr.edu">
-    <img src="https://shields.io" alt="PDC Website">
-  </a>
-  <br />
-  <a href="https://tableau.com">
-    <img src="https://shields.io" alt="Tableau Public">
-  </a>
-</p>
+https://pdc.ucr.edu/project-dashboard
+https://public.tableau.com/shared/GGXKWHXXZ?:display_count=n&:origin=viz_share_link
+
 
 ![Dashboard](PDC_Capital_Projects_Dashboard.png)
 
