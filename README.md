@@ -1,18 +1,15 @@
+# <p align = "center"> UCR PD&C Capital Projects </p>
+
 <p align="center">
 	<img src="PDC_Front_Office.png" width="60%" align="middle">
 </p>
 
-# <p align = "center"> UCR PD&C Capital Projects </p>
-
 <div align="center">
-
 
 | [🌐 Capital Projects Dashboard (PDC Website)](https://pdc.ucr.edu/project-dashboard) | [📊 Capital Projects Dashboard (Tableau Public)](https://public.tableau.com/views/PDCCapitalProjectsDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 | :---: | :---: |
 
 </div>
-
-<br> 
 
 ![Dashboard](PDC_Capital_Projects_Dashboard.png)
 
