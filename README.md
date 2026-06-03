@@ -6,12 +6,11 @@
 
 ## <p align = "center"> Dashboard </p>
 
-<p align = "center"> 
-  [Capital Projects Dashboard (PDC Website)](https://pdc.ucr.edu/project-dashboard)
+<p align="center">
+  <a href="https://pdc.ucr.edu/project-dashboard">Capital Projects Dashboard (PDC Website)</a>
 </p>
-
-<p align = "center"> 
-  [Capital Projects Dashboard (Tableau Public)](https://public.tableau.com/views/PDCCapitalProjectsDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<p align="center">
+  <a href="https://public.tableau.com/views/PDCCapitalProjectsDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Capital Projects Dashboard (Tableau Public)</a>
 </p>
 
 ![Dashboard](PDC_Capital_Projects_Dashboard.png)
