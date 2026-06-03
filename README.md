@@ -6,16 +6,6 @@
 
 ## <p align = "center"> Dashboard </p>
 
-<p align="center">
-  <a href="https://ucr.edu" target="_blank">
-    <img src="https://shields.io" alt="PDC Website Dashboard">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tableau.com" target="_blank">
-    <img src="https://shields.io" alt="Tableau Public Dashboard">
-  </a>
-</p>
-
 <div align="center">
 
 
