@@ -5,8 +5,6 @@
 </p>
 <br>
 
-## <p align = "center"> Dashboard </p>
-
 <div align="center">
 
 
