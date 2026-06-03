@@ -1,6 +1,4 @@
-<p align = "center"> 
-# UCR PD&C Capital Projects
-</p>
+<p align = "center"> # UCR PD&C Capital Projects </p>
 
 <p align="center">
 <img src="PDC_Front_Office.png" width="60%" align="middle">
