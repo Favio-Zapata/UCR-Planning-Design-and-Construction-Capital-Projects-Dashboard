@@ -3,10 +3,8 @@
 <p align="center">
 <img src="PDC_Front_Office.png" width="60%" align="middle">
 </p>
-
-## <p align = "center"> Dashboard </p>
-
 <br>
+## <p align = "center"> Dashboard </p>
 
 <div align="center">
 
