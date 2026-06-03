@@ -1,4 +1,4 @@
-# UCR Planning Design and Construction Capital Projects PPM
+# UCR PD&C Capital Projects
 
 <p align="center">
 <img src="PDC_Front_Office.png" width="80%" align="middle">
