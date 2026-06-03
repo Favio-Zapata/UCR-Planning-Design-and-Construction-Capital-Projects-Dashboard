@@ -1,7 +1,7 @@
 # UCR PD&C Capital Projects
 
 <p align="center">
-<img src="PDC_Front_Office.png" width="80%" align="middle">
+<img src="PDC_Front_Office.png" width="60%" align="middle">
 </p>
 
 ## <p align = "center"> Dashboard </p>
