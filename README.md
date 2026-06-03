@@ -6,6 +6,8 @@
 
 ## <p align = "center"> Dashboard </p>
 
+<br>
+
 <div align="center">
 
 
@@ -14,6 +16,7 @@
 
 </div>
 
+<br> 
 
 ![Dashboard](PDC_Capital_Projects_Dashboard.png)
 
